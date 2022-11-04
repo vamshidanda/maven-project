@@ -7,3 +7,5 @@ https://www.level-up.one/devops-pdf-book
 
 
 Edited for Git Commit
+
+Edited for pipeline
