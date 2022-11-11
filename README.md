@@ -6,4 +6,4 @@ Check out our Latest DevOps PDF book.
 https://www.level-up.one/devops-pdf-book
 
 
-Edited to push to test branch
+Edited to push to test branch.
